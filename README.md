@@ -68,7 +68,7 @@ pip install -r requirements.txt
 ```bash
 solution_N.py
 ```
-s
+
 где `N` — это номер упражнения из файла `Exercises.md` главы.
 
 ### Пример:
