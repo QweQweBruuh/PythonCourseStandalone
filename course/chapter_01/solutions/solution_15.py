@@ -1,0 +1,13 @@
+n = input()
+a = " "
+print(a * 5 + n * 1)
+print(a * 4 + n * 3)
+print(a * 3 + n * 5)
+print(a * 4 + n * 3)
+print(a * 3 + n * 5)
+print(a * 2 + n * 7)
+print(a * 1 + n * 9)
+print(a * 3 + n * 5)
+print(a * 2 + n * 7)
+print(a * 1 + n * 9)
+print(a * 0 + n * 11)
