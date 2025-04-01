@@ -1,0 +1,5 @@
+n = input()
+a = int(input())
+b = int(input())
+c = int(input())
+print(f"Средняя оценка студента {n}: {(a + b + c) / 3:.1f}")   
